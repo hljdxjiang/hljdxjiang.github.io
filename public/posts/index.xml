@@ -13,7 +13,8 @@
       <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Thu, 30 Oct 2025 11:50:34 +0800</pubDate>
       <guid>http://localhost:1313/posts/first-post/</guid>
-      <description></description>
+      <description>&lt;h1 id=&#34;spring-boot-start&#34;&gt;spring-boot start&lt;/h1&gt;
+&lt;p&gt;这是用 &lt;strong&gt;Markdown&lt;/strong&gt; 写的，Hugo 自动转成美观 HTML。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
